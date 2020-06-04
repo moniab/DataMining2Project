@@ -29,6 +29,6 @@
 # Sequential Pattern Mining
 1. Convert the time series into a discrete format (e.g., SAX) in order to prepare the data for the task.
 2. Using different values of support, extract the most frequent sequential patterns (of at least length 3/4), then discuss the most interesting sequences.
-# Project Task 5 - Outlier Detection and Explainability
+#  Outlier Detection and Explainability
 1. From the original dataset (i.e. not the time series built on Task 3 or sequences of Task 4, nor the preprocessed dataset used in Tasks 1 and 2), identify the top 1% outliers.
 2. Adopt at least three different methods belonging to different families (i.e. statistical/depth-based, distance-based, density-based, angle-based, …) and compare the results.
